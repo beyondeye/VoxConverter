@@ -7,4 +7,4 @@ For example
 ## LICENSE
 
 Copyright 2016 Dario Elyasy
-see license [here](./LINCENSE)
+see license [here](./LICENSE)
